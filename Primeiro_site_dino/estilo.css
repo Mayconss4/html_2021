@@ -1,0 +1,67 @@
+header{
+    display: flex;    
+}
+h1 {
+    color: white; 
+    front-size: 12px;
+    background-color: black;
+}
+footer{
+    background-color: black;
+}
+#menu1{
+    text-align: right;
+    color: white;
+    background-color: black;
+}
+/*Pagina 1 acima*/
+
+#home1{
+    text-align: right;
+    color: white;
+    background-color: black;
+}
+
+aside{
+    background-color: #B7B295;
+    text-align: right;
+    color: black;
+    margin-left: 1250px;
+}
+/*Pagina 2 acima*/
+#menu3{
+    text-align: right;
+    color: white;
+    background-color: black;
+}
+#historia{
+    text-align: justify;
+    color: white;
+    background-image: url("img/imagem_dino_escurecida.svg");
+    background-repeat: no-repeat;
+    height: 700px;
+    font-weight: 100px;
+    background-size: cover;
+    position: relative;
+}
+/*Pagina 3 acima*/
+
+#especimes{
+    text-align: justify;
+    color: white;
+    background-image: url("img/imagem_dino_escurecida.svg");
+    background-repeat: no-repeat;
+    height: 800px;
+    background-size: cover;
+    position: relative;
+}
+/*Pagina 4 acima*/
+
+
+
+
+
+
+
+
+
