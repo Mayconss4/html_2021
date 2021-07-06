@@ -1,5 +1,6 @@
 header{
-    display: flex;    
+    display: flex;  
+    background-color: black;  
 }
 h1 {
     color: white; 
@@ -12,7 +13,8 @@ footer{
 #menu1{
     text-align: right;
     color: white;
-    background-color: black;
+    height: 100px;
+    margin-left: 600px;
 }
 /*Pagina 1 acima*/
 
@@ -20,8 +22,14 @@ footer{
     text-align: right;
     color: white;
     background-color: black;
+    margin-left: 600px;
 }
-
+#main1{
+    background-image: url("img/Imagem_principal_dinossauro.svg");
+    background-repeat: no-repeat;  
+    height: 700px;
+    
+}
 aside{
     background-color: #B7B295;
     text-align: right;
@@ -33,6 +41,7 @@ aside{
     text-align: right;
     color: white;
     background-color: black;
+    margin-left: 850px;
 }
 #historia{
     text-align: justify;
@@ -45,7 +54,12 @@ aside{
     position: relative;
 }
 /*Pagina 3 acima*/
-
+#menu4{
+    text-align: right;
+    color: white;
+    background-color: black;
+    margin-left: 825px;
+}
 #especimes{
     text-align: justify;
     color: white;
