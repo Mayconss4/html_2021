@@ -1,5 +1,14 @@
+import { BrowserRouter } from "react-router-dom";
+import Routes from "routes";
+import GlobalStyle from "styles/GlobalStyle";
+
 function App() {
-  return <div>ainda tudo certo?</div>;
+  return (
+    <BrowserRouter>
+    <GlobalStyle/> 
+    <Routes/>
+    </BrowserRouter>
+  );
 }
 
 export default App;
